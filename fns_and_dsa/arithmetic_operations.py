@@ -1,4 +1,4 @@
-def perform_operation(num1: float, num2: float, operation: str):
+def perform_operation(num1, num2, operation):
     
     """
     This program performs a basic  arithmetic operation between num1 and num2.
